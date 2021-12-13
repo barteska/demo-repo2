@@ -34,15 +34,15 @@ THEN FINALLY:
 
 WORKS, displays:
 
-`The authenticity of host 'github.com (140.82.121.4)' can't be established.
-ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.
-Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
-Warning: Permanently added 'github.com,140.82.121.4' (ECDSA) to the list of known hosts.
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Writing objects: 100% (3/3), 261 bytes | 261.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To github.com:barteska/demo-repo2.git
- * [new branch]      master -> master`
+`The authenticity of host 'github.com (140.82.121.4)' can't be established.`
+`ECDSA key fingerprint is SHA256:p2QAMXNIC1TJYWeIOttrVc98/R1BUFWu3/LiyKgUfQM.`
+`Are you sure you want to continue connecting (yes/no/[fingerprint])?` `yes`
+`Warning: Permanently added 'github.com,140.82.121.4' (ECDSA) to the list of known hosts.`
+`Enumerating objects: 3, done.`
+`Counting objects: 100% (3/3), done.`
+`Writing objects: 100% (3/3), 261 bytes | 261.00 KiB/s, done.`
+`Total 3 (delta 0), reused 0 (delta 0)`
+`To github.com:barteska/demo-repo2.git`
+` * [new branch]      master -> master`
 
 
